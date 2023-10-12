@@ -1,0 +1,181 @@
+Oct 11, 2023 11:41:06 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: win_node
+Oct 11, 2023 11:41:06 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3131.vf2b_b_798b_ce99
+Oct 11, 2023 11:41:06 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\jenkinsdir\remoting as a remoting work directory
+Oct 11, 2023 11:41:06 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://18.234.46.131:8080/]
+Oct 11, 2023 11:41:07 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Oct 11, 2023 11:41:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: 18.234.46.131
+  Agent port:    43361
+  Identity:      35:3e:b0:29:42:69:44:bd:87:65:ea:33:60:eb:10:0b
+Oct 11, 2023 11:41:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Oct 11, 2023 11:41:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to 18.234.46.131:43361
+Oct 11, 2023 11:41:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Oct 11, 2023 11:41:08 AM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Oct 11, 2023 11:41:10 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 35:3e:b0:29:42:69:44:bd:87:65:ea:33:60:eb:10:0b
+Oct 11, 2023 11:41:11 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
+Oct 11, 2023 2:28:58 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Terminated
+Oct 11, 2023 2:29:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:29:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:29:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:29:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:30:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:30:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:30:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:30:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:31:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:31:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:31:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:31:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:32:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:32:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:32:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:32:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:33:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:33:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:33:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:33:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:34:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:34:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:34:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:34:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:35:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:35:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:35:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:35:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:36:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:36:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:36:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:36:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:37:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:37:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:37:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:37:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:38:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:38:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:38:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:38:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:39:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:39:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:39:43 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:39:58 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:40:13 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:40:28 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:40:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:40:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:41:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:41:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:41:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:41:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:42:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:42:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:42:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:42:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:43:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:43:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:43:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:43:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:44:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:44:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:44:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:44:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:45:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:45:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:45:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:45:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:46:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:46:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:46:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:46:59 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:47:14 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:47:29 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:47:44 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
+Oct 11, 2023 2:48:54 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+INFO: Failed to connect to the controller. Will try again: java.net.SocketTimeoutException connect timed out
